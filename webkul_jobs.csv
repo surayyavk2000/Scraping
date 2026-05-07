@@ -1,0 +1,42 @@
+Job_name,job_description,Posting_date,Experience,location,company_name,job_application_link,Type
+Next.js Developer,"Ready to take your React skills to the next level?  Our team is seeking a passionate Next.js Developer to join us to build cutting-edge digital experiences.
+
+
+What You'll Do::
+- Develop, optimize, and maintain scalable web ecommerce applications using Next.js.
+- Implement responsive UI components using React, Tailwind CSS, and TypeScript.
+- Utilize Next.js Page Router effectively for dynamic and static rendering.
+- Apply performance optimization techniques such as code splitting, lazy loading, and caching.
+- Ensure cross-browser compatibility and responsive design.
+- Participate in code reviews, provide constructive feedback, and follow best coding practices.
+- Experience in Next JS, React, Tailwind CSS, ORM mapper usage, and usage of token-based authentication/authorization approach in practical experience.
+- Key concepts of Next.js, i.e., Server-Side rendering and client-side rendering
+- Collaborate with backend teams to integrate REST APIs and GraphQL APIs.
+
+
+What You'll Bring to the Table::
+- Functional components, hooks, and state management.
+- Deep understanding of SSR, CSR, SSG, ISG, and the new App Router.
+- TypeScript expertise that ensures robust and scalable code.
+- Experience with Tailwind CSS and CSS best practices.
+- Proficiency in Redux or Redux Toolkit.
+- Expertise in REST and GraphQL API integrations to connect our applications with the world.
+- Experience with Cypress for end-to-end testing, ensuring top-notch quality.
+- Knowledge of performance optimization techniques and SEO best practices for Next.js.",01_01_2026,01-03 Years,"Noida, UP",Webkul,https://webkul.com/jobs/next-js-developer,On-site
+IT Cloud Engineer,"Are you ready to build a career in the dynamic world of cloud computing?  At Webkul, you'll play a crucial role in designing, implementing, and maintaining the cloud infrastructure that powers our global e-commerce platform.
+
+
+What You'll Do::
+- Deployment of various infrastructures on Cloud platforms like AWS, GCP, Azure, OVH, etc.
+- Server monitoring, analysis, and troubleshooting.
+- Deploying multi-tier architectures using microservices.
+- Integration of Container technologies like Docker, Kubernetes, etc, as per application requirements.
+- Automating workflow with Python or shell scripting.
+- CI and CD integration for application lifecycle management.
+- Hosting and managing websites on Linux machines.
+- Frontend, backend, and database optimization.
+- Protecting operations by keeping information confidential.
+- Providing information by collecting, analyzing, and summarizing development & service issues.
+- Preparing & installing the solution by determining and designing system specifications, standards & programming.",01_01_2026,02-05 years,"Noida, UP",Webkul,https://webkul.com/jobs/cloud-engineer,On-site
+Tender Manager,"Are you driven by the challenge of securing impactful projects and building strong client relationships? Webkul is seeking a proactive Tender Manager to lead the preparation and submission of competitive bids, ensuring our success in winning new business.",01_01_2026,02 - 04 Years,"Noida, UP",Webkul,https://webkul.com/jobs/tender-manager,On-site
+PHP Developer,"We're seeking passionate PHP developers to create innovative, dynamic web solutions. Join us to design, develop, and maintain engaging PHP projects that make an impact. Bring your expertise and creativity to shape the future of web development with us!",01_01_2026,01- 03 Years,"Noida, UP",Webkul,https://webkul.com/jobs/php-developer,On-site
