@@ -1,0 +1,77 @@
+Job_name,job_description,Posting_date,Experience,location,company_name,job_application_link,Type
+L1 Cyber Security Analyst,"The primary responsibilities of the Level 1 Cyber Security Analyst are to sort, filter, analyze, qualify and escalate various cyber-security alerts inside log aggregation tools (SIEM) such as ArcSight, Splunk, and QRadar. The Analyst is also responsible for incident follow-up, process suggestions, and basic automation. This work is ideal for applicants eager to enter the world of information security and with a keen interest in technology. Training will be provided for all new employees, and detailed documentation is available to assist analysts in performing their duties. The schedule of the Level 1 Analyst role encompasses working on an 8h shift-rotation schedule including mornings, afternoon and weekend shifts.
+
+Primary responsibilities:
+Perform investigation of security alerts and escalate incidents according to procedures.
+Produce brief written reports detailing your investigation findings
+Launch queries in log aggregation tool to gather information to answer analytical questions
+Suggest improvements and optimization to the team, we want to hear your opinion!
+Ability to learn continuously in a fast-paced environment.
+
+Qualifying Skills:
+Working knowledge of Basic Networking and/or Operating Systems is a mandatory skill
+General interest in cyber-security topics (Malware, Penetration Testing, Intrusion Detection, etc.)
+Strong analytical skills & technical skills.
+Ability to communicate efficiently within a team environment.
+Good English Skills (Both Written and Verbal). CEF Level C1 or C2 is preferred.
+Education: (Optional) Bachelor of Science degree in Computer Science, Computer Engineering, Information Technology. Equivalent Work experience is also acceptable.
+Certifications (Optional) Network+, Security+, CCNA, etc.",N/A,N/A,Makati,SecureOps,https://secureops.bamboohr.com/careers/75,N/A
+Security Detection Specialist,"The position of  Security Detection Specialist provides the opportunity to work with leading-edge staff and technologies. The position involves taking responsibility for the successful detection of cybersecurity incidents, leveraging advanced security technologies. Primary responsibilities include.
+
+Responsibilities and Duties:
+Analysis of data feeds from various security tools and logs.
+Identification of capabilities and quality of these feeds and recommend improvements.
+Implementation of new content use cases based on threat intelligence, analyst feedback, available log data, previous incidents.
+Perform day to day activities of the content life cycle, including creating new use cases, testing content, tuning, and deprecating content.
+Strong documentation and communication skills and ability to maintain associated documentation.
+Ability to drive process improvements and identify gaps.
+Assist with development of parsers or field extractions to facilitate reliable content development.
+Knowledge of programming or scripting fundamentals; Python 3 preferred.
+Create, implement, document and maintain novel analytic methods and techniques for incident detection.
+Share knowledge, mentor and train junior engineers and analysts.
+
+Qualification requirements:
+Hard skills:
+Advanced knowledge of SIEM correlation engines, reporting capabilities, and dashboards
+Proven expertise using Google Chronicle (SecOps), Splunk, or Microsoft Sentinel
+Advanced knowledge and interest in attacking tools, tactics, and procedures (TTPs)
+Strong understanding of cyber kill chains and the MITRE ATT&CK framework
+Experience with associated detection tools and technologies (IDS, EDR, etc.)
+Fluent in networking and common protocols: HTTP, DNS, SMB, IP, TCP, UDP
+Working knowledge of web technologies: SSL, Web Services, Proxy configurations
+In-depth knowledge of vulnerabilities and exploitation, including detection and mitigation techniques
+Soft skills:
+Self-driven and highly organized
+Strong verbal and written communication skills
+Previous (minimum) experience requirements:
+At least five (5) years of related work experience in network operations
+At least two (2) years of experience in network security (Firewall, Network Access, Security controls)",N/A,N/A,Makati,SecureOps,https://secureops.bamboohr.com/careers/79,N/A
+SOC - Level 2 Cyber Security Analyst,"Responsibilities and Duties:
+
+Primary Responsibilities and Duties:
+Qualify SIEM incidents reported by Level 1.
+Investigate beyond the depth and technical expertise expected of Level 1.
+Perform incident response and report findings to customers.
+Handle incident escalations from Level 1.
+Qualify and escalate security incidents to our customers based on the incident severity.
+Perform Security research to suggest SIEM use-cases and refine investigation methods.
+Suggest improvements to the current SIEM content.
+Communicate directly with customers during meetings or escalations.
+Define or update processes and other documentation.
+
+Secondary Responsibilities and Duties:
+Guide and mentor Level 1 Cyber Security Analysts.
+Quality Control (detections/tickets).
+Assist with the training of Level 1 analysts.
+
+Qualifications and Skills:
+Ideally, working experience in the Security Operations Center or other cybersecurity team
+Intermediate knowledge of SIEM (ideally Splunk) and/or IPS-related technologies is a mandatory skill.
+Strong analytical & technical skills. Ability to develop hypotheses for security events using limited, ambiguous, or conflicting information.
+Ability to lead and communicate efficiently within a team environment.
+Good English skills (both written and verbal).
+Professional certifications such as CCNA, CEH, SANS GCIA or GCIH, eCTHP, eCDFP are a bonus/plus
+Education: (Preferred) Bachelor of Science degree in Computer Science, Computer Engineering, Information Technology or equivalent.
+1+ years working within the information security field, with emphasis on security operations, incident management, intrusion detection, and security event analysis.
+Knowledge of technical writing and documentation, and the ability to map processes and procedures back to roles and responsibilities within the organization.
+Great customer service skills.",N/A,N/A,"Prague, Czech Republic",SecureOps,https://secureops.bamboohr.com/careers/86,N/A
